@@ -1,0 +1,7 @@
+C:\Users\Samet UCA\source\repos\MyMergeSort\MyMergeSort\obj\Debug\MyMergeSort.csproj.AssemblyReference.cache
+C:\Users\Samet UCA\source\repos\MyMergeSort\MyMergeSort\obj\Debug\MyMergeSort.csproj.CoreCompileInputs.cache
+C:\Users\Samet UCA\source\repos\MyMergeSort\MyMergeSort\bin\Debug\MyMergeSort.exe.config
+C:\Users\Samet UCA\source\repos\MyMergeSort\MyMergeSort\bin\Debug\MyMergeSort.exe
+C:\Users\Samet UCA\source\repos\MyMergeSort\MyMergeSort\bin\Debug\MyMergeSort.pdb
+C:\Users\Samet UCA\source\repos\MyMergeSort\MyMergeSort\obj\Debug\MyMergeSort.exe
+C:\Users\Samet UCA\source\repos\MyMergeSort\MyMergeSort\obj\Debug\MyMergeSort.pdb
