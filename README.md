@@ -1,4 +1,4 @@
-# merge short algorithm
+# Merge Short Algorithm
 
 Merge Sort is a comparative sorting algorithm. Merge Sort divides a string into smaller pieces by first dividing it in half. It then assembles these pieces in order. This process is repeated until the subparts become a single ordered array.
 
